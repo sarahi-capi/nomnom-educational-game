@@ -11,9 +11,13 @@ config_version=5
 [application]
 
 config/name="NomNom"
-run/main_scene="uid://cqe5p2lxv74xh"
+run/main_scene="uid://cu8cr5rlt0bhf"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="uid://1k8ixhv30nxw"
+
+[autoload]
+
+Global="*res://Scripts/global.gd"
 
 [display]
 
