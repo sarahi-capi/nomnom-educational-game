@@ -7,9 +7,10 @@ extends Area2D
 
 func _on_sandwich_dropped():
 	sprite.texture = preload("res://Image/nomnom_hearts.png")
-	dialogue_label.text = "Thank you!"
 	dialogue_group.visible = true
 	end_button.visible = true
-	
+	$YaySound.play()
+
 func _on_end_button_pressed():
-	get_tree().quit()
+	UiButtonAudio.play_close()
+	get_tree().change_scene_to_file("res://Scenes/select_game.tscn")
