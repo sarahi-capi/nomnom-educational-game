@@ -162,16 +162,16 @@ Develop within 4 months an application/game that helps as a practical tool for t
 
 ### **Children** 
 
-![][image1]  
-![][image2]
+![image1](DocumentationImages/image1.png) 
+![image2](DocumentationImages/image2.png) 
 
 ### **Teacher**
 
-![][image3]
+![image3](DocumentationImages/image3.png) 
 
 ### **Parent**
 
-**![][image4]**
+![image4](DocumentationImages/image4.png) 
 
 ## **2.3 User stories**
 
@@ -200,7 +200,7 @@ Develop within 4 months an application/game that helps as a practical tool for t
 
 ### **Use Case Diagrams**
 
-**![][image5]**
+![image5](DocumentationImages/image5.png) 
 
 ### **Use Cases**
 
@@ -392,7 +392,7 @@ Each mini-game is implemented as an independent scene, with its own logic, asset
 
 #### **High-Level System Architecture**
 
-**![][image6]**  
+![image6](DocumentationImages/image6.png)   
 The architecture is structured with the following components: 
 
 * **Users**: 1st-grade students.  
@@ -405,7 +405,7 @@ The architecture is structured with the following components:
 #### **Sub-areas**
 
 1. ##### **Mini-game: Counting Hands**
-![][image7]
+![image7](DocumentationImages/image7.png) 
 
 **For this sub-area:**  
 * The user will observe an image of two hands displaying a number of gestures. Below the image, a set of symbols (from 1 to 10\) is presented. The user selects the symbol that represents the number shown by the hand gestures.  
@@ -414,7 +414,7 @@ The architecture is structured with the following components:
 * This mini-game has no end: the user can exit at any time, but after finishing successfully 5 consecutive rounds, a celebratory animation and sound are shown. 
 
 2. ##### **Mini-game: Feeding the Monster**
-![][image8]
+![image8](DocumentationImages/image8.png) 
 
 **For this sub-area:** 
 
@@ -450,7 +450,7 @@ In this section, we provide a breakdown of the internal design of the game syste
    - sandwich\_image: Texture \- Image of a sandwich to feed NomNom.
 
 #### UML Diagram  
-![][image9]
+![image9](DocumentationImages/image9.png) 
 
 ### **System decomposition** 
 
@@ -617,19 +617,19 @@ NomNom's design system establishes the visual and functional foundations for all
 
 The fonts are thick, rounded, and large, selected to facilitate reading when the text is essential. The typography used avoids overly thin or decorative strokes, with a focus on ensuring optimal readability on screen.
 
-![][image10]
+![image10](DocumentationImages/image10.png) 
 
 2. #### **Color**
 
 A lively, contrasting, and accessible color palette is used. Colors include bright shades of blue, red, green, and yellow, which capture children's attention and help distinguish functions. 
 
-![][image11]
+![image11](DocumentationImages/image11.png) 
 
 3. #### **Buttons and interactive elements**
 
 The buttons are large, with rounded edges and enough space between them to avoid selection errors. They change color when pressed to provide immediate visual feedback. Some include shadow effects to highlight their interactivity.
 
-![][image12]
+![image12](DocumentationImages/image12.png) 
 
 ### **Interaction modeling** 
 
