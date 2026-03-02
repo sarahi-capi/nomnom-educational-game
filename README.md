@@ -25,6 +25,12 @@ This project was a successful agile collaboration, combining logic, art, and ver
 * **Sebastian Zelaya Bustillo:** Version Control (GitLab) and Integration Testing.
 * **Jou-Pei Fang:** Asset Collection and Demo Presentation.
 
+## 📚 Comprehensive Project Documentation
+This project was built following strict Software Engineering protocols. I highly encourage reviewing our [**Full Project Documentation (documentation.md)**](documentation.md) to see our complete process, including:
+* System Architecture & Domain Data Models (UML)
+* Requirements Engineering (User Stories & Personas)
+* QA Testing Protocols & Acceptance Documentation
+
 ## How to Run 🚀
 This game was built using Godot 4.4.
 1. Clone the repository to your local machine.
