@@ -10,7 +10,7 @@ A 2D interactive educational game built in the Godot Engine to help 1st-grade st
 ## The Concept ✨
 **NomNom** was developed in a collaborative team environment as a strictly visual, text-minimal educational tool. The game features two core mechanics: a "Counting Hands" pattern recognition system and a "Feeding the Monster" logic puzzle where players must match recipe quantities using a drag-and-drop inventory system. 
 
-## Software Architecture & Core Logic 🛠️
+## Software Architecture & Logic 🛠️
 While the project features beautiful custom art, my primary role in this project was **Core Game Logic, Scene Architecture, and Backend Development**. I focused on building a scalable, modular foundation using GDScript:
 
 * The game was designed using strict Component-Based design. Every mini-game, UI element, and interactive object (like ingredients or the monster) acts as an independent, decoupled Godot scene, allowing for high maintainability and easy future expansion.
