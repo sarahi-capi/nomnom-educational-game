@@ -26,7 +26,7 @@ This project was a successful agile collaboration, combining logic, art, and ver
 * **Jou-Pei Fang:** Asset Collection and Demo Presentation.
 
 ## 📚 Comprehensive Project Documentation
-This project was built following strict Software Engineering protocols. I highly encourage reviewing our [**Full Project Documentation (documentation.md)**](documentation.md) to see our complete process, including:
+This project was built following strict Software Engineering protocols. I highly encourage reviewing our [**Full Project Documentation**](documentation.md) to see our complete process, including:
 * System Architecture & Domain Data Models (UML)
 * Requirements Engineering (User Stories & Personas)
 * QA Testing Protocols & Acceptance Documentation
